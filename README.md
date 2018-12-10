@@ -1,3 +1,7 @@
 # hello-world
 练习
-wahaha
+
+public static void main(String[] agre){
+      system.out.println("hello world");
+}
+
